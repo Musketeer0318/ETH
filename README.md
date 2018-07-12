@@ -7,10 +7,18 @@ Renting in Zurich
 * Melissa
 * Songyan Hou
 ## 目标:
-1. 
-2. 
-3. 
+1. 附近有公交车站或轻轨？
+2. 4 or 4.5 rooms?
+3. ...
+## 网站
+### [Student housing](http://www.wohnen.ethz.ch/en/search-accommodation/further-search-alternatives/student-housing.html)
+* [WOKO](http://www.woko.ch/)好像只有9个都是招舍友的
+* [JUWO](www.juwo.ch)
+* [Student Village](http://studentvillage.ch/)
+###  [Public Search](http://www.wohnen.ethz.ch/en/search-accommodation/further-search-alternatives/public-search-portals.html)
+* [student.ch](https://www.students.ch/)
+* [wgzimmer.ch](https://www.wgzimmer.ch/)
 ## 房源：
-
+* [第一个房源](www.baidu.com)其实连接是百度。。。
 
 
