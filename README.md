@@ -12,13 +12,13 @@ Renting in Zurich
 3. ...
 ## 网站
 ### [Student housing](http://www.wohnen.ethz.ch/en/search-accommodation/further-search-alternatives/student-housing.html)
-* [WOKO](http://www.woko.ch/)好像只有9个都是招舍友的
-* [JUWO](www.juwo.ch)
+* [WOKO](http://www.woko.ch/) 好像只有9个都是招舍友的
+* [JUWO](http://juwo.ch/index_en.php) 这个网站我打不开...
 * [Student Village](http://studentvillage.ch/)
 ###  [Public Search](http://www.wohnen.ethz.ch/en/search-accommodation/further-search-alternatives/public-search-portals.html)
 * [student.ch](https://www.students.ch/)
 * [wgzimmer.ch](https://www.wgzimmer.ch/)
 ## 房源：
-* [第一个房源](www.baidu.com)其实连接是百度。。。
+* [第0个房源](https://www.baidu.com/) for testing 
 
 
