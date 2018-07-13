@@ -25,8 +25,6 @@ Renting in Zurich
 * [好像只租俩人](https://www.students.ch/wohnen/details/278065/Wohnung-55qm-Zuerich-Gemuetliche-4-Zimmer-WG-Wohnung) <br>
 宽敞舒适的公寓（一楼）位于市区（Gockhausen）。 大学10分钟。 三间卧室，大型入口和起居室。 卫生间与浴室隔开。 阳台+地下室。 公寓可以提供家具。 我们正在寻找2个租约方。 现有的分租人将留在公寓，直到8月底。 之后，这个房间也可用。 7月3日和4日晚上8点参观。 - 076 545 24 09。
 
-* [好像只租俩人](https://www.students.ch/wohnen/details/278065/Wohnung-55qm-Zuerich-Gemuetliche-4-Zimmer-WG-Wohnung) <br>
-宽敞舒适的公寓（一楼）位于市区（Gockhausen）。 大学10分钟。 三间卧室，大型入口和起居室。 卫生间与浴室隔开。 阳台+地下室。 公寓可以提供家具。 我们正在寻找2个租约方。 现有的分租人将留在公寓，直到8月底。 之后，这个房间也可用。 7月3日和4日晚上8点参观。 - 076 545 24 09。
 
 * [3000CHF](https://flatfox.ch/en/flat/ottenweg-11-8008-zurich/41860/) <br>
 
