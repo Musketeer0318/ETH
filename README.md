@@ -48,4 +48,5 @@ Renting in Zurich
 #### [Public Search](http://www.wohnen.ethz.ch/en/search-accommodation/further-search-alternatives/public-search-portals.html)
 * [student.ch](https://www.students.ch/)
 * [wgzimmer.ch](https://www.wgzimmer.ch/)
+* [Flatfox](https://flatfox.ch/en/)
 
