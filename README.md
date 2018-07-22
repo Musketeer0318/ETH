@@ -25,8 +25,34 @@ Renting in Zurich
 * https://flatfox.ch/en/flat/sprecherstrasse-5-8032-zurich/42433/
 * https://flatfox.ch/en/flat/hegibachstrasse-8032-zurich/42243/
 * https://flatfox.ch/en/flat/langstrasse-239-8005-zurich/42124/
-*
-*
+* https://flatfox.ch/en/flat/russenweg-8008-zurich/43486/
+* https://flatfox.ch/en/flat/schimmelstrasse-2-8003-zurich/43397/
+* https://flatfox.ch/en/flat/holzwiesweg-8047-zurich/43344/
+* https://flatfox.ch/en/flat/irchelstr-8-8057-zurich/43331/
+* https://flatfox.ch/en/flat/schaufelbergerstr-45-8055-zurich/43323/
+* https://flatfox.ch/en/flat/kugeliloostrasse-89-8046-zurich/39287/
+* https://flatfox.ch/en/flat/albulastrasse-40-8048-zurich/43283/
+* https://flatfox.ch/en/flat/alderstrasse-8008-zurich/42521/
+* https://flatfox.ch/en/flat/grunhaldenstrasse-40-8052-zurich/42534/
+* https://flatfox.ch/en/flat/speerstr-32-8038-zurich/42548/
+* https://flatfox.ch/en/flat/binzallee-26-8055-zurich/40893/
+* https://flatfox.ch/en/flat/hohlstrasse-511-8048-zurich/42660/
+* https://flatfox.ch/en/flat/albulastrasse-52-8048-zurich/42676/
+* https://flatfox.ch/en/flat/tuchmacherstrasse-34-8041-zurich/42763/
+* https://flatfox.ch/en/flat/grundstrasse-14-8048-zurich/40471/
+* https://flatfox.ch/en/flat/hatzlergasse-23-8048-zurich/42803/
+* https://flatfox.ch/en/flat/kilchbergstr-139-8038-zurich/39919/
+* https://flatfox.ch/en/flat/zurlindenstrasse-140-8003-zurich/42825/
+* https://flatfox.ch/en/flat/werdholzlistrasse-8048-zurich/42867/
+* https://flatfox.ch/en/flat/arianestrasse-19-8052-zuerich/42895/
+* https://flatfox.ch/en/flat/bachmannweg-7-8046-zurich/41442/
+* https://flatfox.ch/en/flat/witikonerstrasse-253-8053-zurich/43005/
+* https://flatfox.ch/en/flat/binzmuhlestrasse-8050-zurich/43055/
+* https://flatfox.ch/en/flat/glatttalstrasse-116-8052-zurich/39727/
+* https://flatfox.ch/en/flat/hofwiesenstrasse-8057-zurich/43199/
+* https://flatfox.ch/en/flat/albulastrasse-40-8048-zurich/43283/
+* 
+
 
 
 
