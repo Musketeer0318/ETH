@@ -4,13 +4,10 @@ Renting in Zurich
 # 租房信息备忘录：
 ## 租房小队:
 * 5rr
-* Melissa
 * Songyan Hou
 ## 目标:
 1. 附近有公交车站或轻轨？
-2. 4 or 4.5 rooms?
-3. ...
-## 房源：
+
 * [第0个房源](https://www.baidu.com/) for testing 
 
 * [Oerlikon市区](https://www.students.ch/wohnen/details/278114/Wohnung-68qm-Zuerich-Helle-3Zi-Wohnung-naehe-Milchbuck) <br>
@@ -18,19 +15,19 @@ Renting in Zurich
 公共交通：步行2分钟即可到达Berninaplatz或Hirschwiesenstrasse电车站
 商店：Spar和药店对面
 
-
-* [动物园背面两人间](https://www.students.ch/wohnen/details/276420/Wohnung-71qm-Zuerich-3-Zimmer-Wohnung-hell--ruhig) <br>
-首次出租：阳光明媚，安静的三室公寓设有大阳台。非常适合情侣或2人生活社区。大房间（18平方米，18平方米，24平方米）
-
-* [好像只租俩人](https://www.students.ch/wohnen/details/278065/Wohnung-55qm-Zuerich-Gemuetliche-4-Zimmer-WG-Wohnung) <br>
-宽敞舒适的公寓（一楼）位于市区（Gockhausen）。 大学10分钟。 三间卧室，大型入口和起居室。 卫生间与浴室隔开。 阳台+地下室。 公寓可以提供家具。 我们正在寻找2个租约方。 现有的分租人将留在公寓，直到8月底。 之后，这个房间也可用。 7月3日和4日晚上8点参观。 - 076 545 24 09。
-
-
-* [3000CHF](https://flatfox.ch/en/flat/ottenweg-11-8008-zurich/41860/) <br>
-
-* [大空房](https://flatfox.ch/en/flat/schwamendingenstrasse-8050-zurich/42418/) <br>
-
 * [3.5](https://flatfox.ch/en/flat/naglerwiesenstrasse-8049-zurich/42392/) <br>
+
+* https://flatfox.ch/en/flat/rosengasse-3-8001-zurich/43446/
+* https://flatfox.ch/en/flat/muhlebachstrasse-41-8008-zurich/39857/
+* https://flatfox.ch/en/flat/zeltweg-13-8032-zurich/42642/
+* https://flatfox.ch/en/flat/josefstrasse-93-8005-zurich/42572/
+* https://flatfox.ch/en/flat/josefstrasse-93-8005-zurich/42438/
+* https://flatfox.ch/en/flat/sprecherstrasse-5-8032-zurich/42433/
+* https://flatfox.ch/en/flat/hegibachstrasse-8032-zurich/42243/
+* https://flatfox.ch/en/flat/langstrasse-239-8005-zurich/42124/
+*
+*
+
 
 
 
@@ -47,4 +44,8 @@ Renting in Zurich
 * [student.ch](https://www.students.ch/)
 * [wgzimmer.ch](https://www.wgzimmer.ch/)
 * [Flatfox](https://flatfox.ch/en/)
+* [Faceook](https://www.facebook.com)
+* [Urbanhome](http://www.urbanhome.ch/)
+
+
 
