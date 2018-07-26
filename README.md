@@ -29,6 +29,8 @@ Renting in Zurich
 * https://flatfox.ch/en/flat/schimmelstrasse-2-8003-zurich/43397/
 * https://flatfox.ch/en/flat/holzwiesweg-8047-zurich/43344/
 * https://flatfox.ch/en/flat/irchelstr-8-8057-zurich/43331/
+8.7去看房
+
 * https://flatfox.ch/en/flat/schaufelbergerstr-45-8055-zurich/43323/
 * https://flatfox.ch/en/flat/kugeliloostrasse-89-8046-zurich/39287/
 * https://flatfox.ch/en/flat/albulastrasse-40-8048-zurich/43283/
