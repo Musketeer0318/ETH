@@ -26,7 +26,7 @@ Renting in Zurich
 宽敞舒适的公寓（一楼）位于市区（Gockhausen）。 大学10分钟。 三间卧室，大型入口和起居室。 卫生间与浴室隔开。 阳台+地下室。 公寓可以提供家具。 我们正在寻找2个租约方。 现有的分租人将留在公寓，直到8月底。 之后，这个房间也可用。 7月3日和4日晚上8点参观。 - 076 545 24 09。
 
 
-* [3000CHF](https://flatfox.ch/en/flat/ottenweg-11-8008-zurich/41860/) <br>
+* [3000CHF](https://flatfox.ch/en/flat/ottenweg-11-8008-zurich/41860/) <br>（这个已经租出去了）
 
 * [大空房](https://flatfox.ch/en/flat/schwamendingenstrasse-8050-zurich/42418/) <br>(这个已经租出去了）
 
