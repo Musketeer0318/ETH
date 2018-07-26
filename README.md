@@ -28,7 +28,7 @@ Renting in Zurich
 
 * [3000CHF](https://flatfox.ch/en/flat/ottenweg-11-8008-zurich/41860/) <br>
 
-* [大空房](https://flatfox.ch/en/flat/schwamendingenstrasse-8050-zurich/42418/) <br>
+* [大空房](https://flatfox.ch/en/flat/schwamendingenstrasse-8050-zurich/42418/) <br>(这个已经租出去了）
 
 * [3.5](https://flatfox.ch/en/flat/naglerwiesenstrasse-8049-zurich/42392/) <br>
 
